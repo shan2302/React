@@ -32,3 +32,18 @@ let [counter,setCounter]=useState(5)
     counter = counter+1;
     setCounter(counter)
   }
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+<!--VIRTUAL DOM-->
+The Virtual DOM is a lightweight copy of the real DOM that React uses to quickly figure out the most efficient way to update the UI.
+
+<!-- React Fiber -->
+React Fiber is a reimplementation of React’s rendering engine that lets it break work into chunks so it can prioritize updates and make apps smoother.
+it helps in hydration(implementation of JS)
+<!-- Reconcillation -->
+
+Reconciliation in React is the process by which React efficiently updates the user interface (UI) to reflect changes in the application's state or props
+
+<!-- TAILWIND  -->
+CSS FRAMEWORK
+npm install tailwindcss @tailwindcss/vite
