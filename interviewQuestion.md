@@ -2,5 +2,3 @@ when we use multiple times in adding or subtracting value and showing to UI in H
 Answer :-
 if we want to use multiple times 
 setCounter((prevCounter)=>prevCounter+1)
-
-3:56:56

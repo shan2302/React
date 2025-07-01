@@ -47,3 +47,15 @@ Reconciliation in React is the process by which React efficiently updates the us
 <!-- TAILWIND  -->
 CSS FRAMEWORK
 npm install tailwindcss @tailwindcss/vite
+
+
+useCallback(()=>{},{dependencies})
+useCallback use for optimizing the code and use to store data in cache
+useEffect(()=>{},{dependencies})
+useEffect that use to runs side effect after rendering
+useRef()
+useRef will create a mutable reference object to persist value
+
+In React we have window
+we want to find clipboard we will find it in window.navigator.clipboard.writeText
+
