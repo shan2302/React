@@ -59,3 +59,5 @@ useRef will create a mutable reference object to persist value
 In React we have window
 we want to find clipboard we will find it in window.navigator.clipboard.writeText
 
+
+7:18:38
